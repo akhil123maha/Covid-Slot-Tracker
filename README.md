@@ -15,3 +15,8 @@ Steps to use
 
 
 It will run every 10 seconds and check for availability of slots.
+
+
+
+FAQ :
+For 401 error, please refersh the browser and retrigger the script as the session is invalidate after some time
